@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="74a608a9-e8de-4bbe-8fa1-da86a528f220" name="EGR400PI">
+        <fileTransfer rootFolder="/home/pi" accessType="SFTP" host="192.168.195.127" port="22" sshConfigId="11eca618-7788-43ae-a2e9-2476752989ae" sshConfig="pi@192.168.195.127:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
